@@ -1,0 +1,13 @@
+{
+    "resW": 1920,
+    "resH": 1080,
+    "mainFOV": 120,
+    "cams": [
+        {
+            "name": "right",
+            "hfov": 90,
+            "hAngleFromMain": 0,
+            "vAngleFromMain": 0
+        }
+    ]
+}
