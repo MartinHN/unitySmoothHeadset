@@ -70,7 +70,7 @@ public class SpoutCams : MonoBehaviour
     public bool load = false;
 
     public bool write = false;
-    public string confPath = "../configuration/mappingConf.json";
+    public string confPath = "configuration/mappingConf.json";
 
 
     public bool lockRotation = true;
